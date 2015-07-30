@@ -1,4 +1,6 @@
-# MakerBot Desktopのインストール 
+# MakerBot Desktopのインストール
+
+![img](screenshot.png)
 
 ### 1.リポジトリの追加
 ```bash
@@ -51,5 +53,6 @@ $ sudo apt-get install linux-image-generic-lts-raring
 ```
 
 **公式サイト**: [https://www.makerbot.com/support/new/04_Desktop/Knowledge_Base/How_to_Install_MakerBot_Desktop_for_Linux](https://www.makerbot.com/support/new/04_Desktop/Knowledge_Base/How_to_Install_MakerBot_Desktop_for_Linux)
+
 
 
