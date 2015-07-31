@@ -1,6 +1,6 @@
 # MakerBot Desktopのインストール
 
-![img](screenshot.png)
+![img](Screenshot2.png)
 
 ### 1.リポジトリの追加
 ```bash
